@@ -1,6 +1,6 @@
 module.exports = {
     images: {
-        domains: ["avatars.dicebar.com", "links.papareact.com", "img.daily.co.kr"],
+        domains: ["avatars.dicebear.com", "links.papareact.com", "img.daily.co.kr"],
     },
     env: {
         NEXT_PUBLIC_APP_ID: process.env.NEXT_PUBLIC_APP_ID,

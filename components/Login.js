@@ -4,11 +4,11 @@ import { useMoralis } from "react-moralis";
 
 function Login() {
     const { authenticate, isInitializing } = useMoralis();
-    if (isInitializing) {
-        return (
-            <div>로딩중</div>
-        )
-    }
+    // if (isInitializing) {
+    //     return (
+    //         <div>로딩중</div>
+    //     )
+    // }
     return (
         <div className="bg-black relative ">
             <h1>I am the login screen</h1>
