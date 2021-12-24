@@ -1,7 +1,6 @@
 import { useMoralis } from "react-moralis";
 import Image from "next/image"
 import LoginLogo from "../assets/siba.png"
-import Login from "./login";
 import Avatar from "./Avatar";
 import ChangeUserName from "./ChangeUserName";
 
